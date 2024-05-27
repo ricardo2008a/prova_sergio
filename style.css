@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.geral{
+    height: 100px;
+    margin-top: 10px;
+
+  
+}
+.cabeçalho{
+    color: rgb(15, 15, 15);
+    text-align: center;
+    background-color: rgb(203, 233, 233);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+ 
+  
+}
+.centro{
+    display: flex;
+    
+}
+.meio{
+    background-color: aqua;
+    padding: 300px;
+    
+}
+.butoes{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    height: 100px;
+   
+
+}
+.rodape{
+    background-color: rgb(75, 83, 83);
+    padding-top: 50px;
+    text-align: center;
+   
+    
+
+}
+button{
+   
+
+    
